@@ -31,7 +31,7 @@
       <p>Forgot your password? <a href="index.php">Click here to reset it</a>.</p>
     </div>
   </section>
-
+//Aixo es un comentari
 
     <script src="assets/js/jquery-3.1.1.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
