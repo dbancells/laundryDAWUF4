@@ -32,7 +32,7 @@
     </div>
   </section>
 //Aixo es un comentari
-//Aixo tambe es un comentari
+//Aixo tambe es un comentari2
 
 //comment
     <script src="assets/js/jquery-3.1.1.min.js"></script>
