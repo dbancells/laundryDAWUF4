@@ -1,6 +1,6 @@
 # laundry management system
-
----
+..
+---.
 ## Using Tech:
 
 * Php
@@ -11,7 +11,13 @@
 * Bootstarp
 * HTML5
 * CSS3
+* MARC JORNET BOEIRA - PROPIETARI
+<<<<<<< HEAD
+DAVID BUESA LORENTE - PROPIETARI
 
+
+=======
+>>>>>>> db15acf9158164b075b783be1876e062a18f4b48
 
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
@@ -23,7 +29,7 @@
 *	You can generate of whole or specific report
 *	You can change password and can logout
 
-
+.
 ---
 
 
