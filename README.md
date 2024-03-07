@@ -22,6 +22,7 @@
 *	You can add laundry type and amount
 *	You can generate of whole or specific report
 *	You can change password and can logout
+*	Comentari modificacio apartat e)
 
 
 ---
