@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
+//Ya no se que poner David
 <body>
   <section class="container">
     <div class="login">
