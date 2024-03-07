@@ -11,6 +11,7 @@
   <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
 <body>
+ <h1>Hola</h1>
   <section class="container">
     <div class="login">
       <h1>Login to Laundry Shop</h1>
@@ -37,6 +38,7 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/login.js"></script>
 
+//HOLA SOY YO JEJEJE
 
 </body>
 </html>
