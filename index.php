@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
 <head>
 // Modificació per el fitxer de index.php
+// Segona modificació
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Login Form</title>
