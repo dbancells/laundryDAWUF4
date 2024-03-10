@@ -12,6 +12,7 @@
 </head>
 <body>
    // BUG 1
+	// BUG 2
   <section class="container">
     <div class="login">
       <h1>Login to Laundry Shop</h1>
