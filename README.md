@@ -1,5 +1,6 @@
 # laundry management system
 <!-- Comentario en el README  -->
+Elyass el Jerari: Propietari
 ---
 ## Using Tech:
 
